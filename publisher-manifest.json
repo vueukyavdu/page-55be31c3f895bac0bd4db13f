@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "9e78e2f5f2f99144dd8adce2",
+  "owner": "vueukyavdu",
+  "repo": "page-55be31c3f895bac0bd4db13f",
+  "title": "悟空",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "55be31c3f895bac0bd4db13f",
+      "a": "悟空",
+      "b": "",
+      "entity": "悟空",
+      "brand": "悟空",
+      "separator": "",
+      "path": "index.html",
+      "hash": "63fb11be8d0c25f7c4915d77465641b1dbb35f0dfb0d19ba0a44862460566f13",
+      "content": {
+        "keyword1": "悟空",
+        "keyword2": "",
+        "primary_entity": "悟空",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "悟空专注于提供稳定、私密且高效的网络中转服务。无论你是为了跨越地理限制访问内容，还是为了保护在线隐私，悟空都能以清晰透明的方案助你一臂之力。",
+          "AI_DESCRIPTION": "悟空专注于提供稳定、私密且高效的网络中转服务。无论你是为了跨越地理限制访问内容，还是为了保护在线隐私，悟空都能以清晰透明的方案助你一臂之力。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #2B231D;--card-bg: #362C24;--text-main: #F5F0EB;--text-muted: #A89B92;--accent: #A8E6CF;--border-color: #4A3D34;--number-color: #1E1814}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.8;font-size: 16px}\n\nheader {border-bottom: 1px solid var(--border-color);padding: 1rem 5%;display: flex;justify-content: space-between;align-items: center;flex-wrap: wrap;gap: 1rem}\n\n.breadcrumb {font-size: 0.9rem;color: var(--text-muted)}\n\n.breadcrumb span {margin: 0 0.5rem}\n\n.directory {display: flex;gap: 1.5rem}\n\n.directory a {color: var(--text-main);text-decoration: none;font-size: 0.9rem;transition: color 0.3s}\n\n.directory a:hover {color: var(--accent)}\n\nmain {max-width: 1200px;margin: 0 auto;padding: 4rem 5%}\n\nsection {margin-bottom: 6rem}\n\nh1 {font-size: 3.5rem;font-weight: 700;margin-bottom: 1rem;line-height: 1.2}\n\nh2 {font-size: 2rem;margin-bottom: 2rem;color: var(--accent)}\n\nh3 {font-size: 1.4rem;margin-bottom: 1rem;color: var(--text-main)}\n\np {margin-bottom: 1.5rem;color: var(--text-muted)}\n\nstrong {color: var(--text-main);font-weight: 600}\n\na {color: var(--accent);text-decoration: none}\n\n/* Hero Section */\n.hero {display: grid;grid-template-columns: 1fr 1fr;gap: 4rem;align-items: center}\n\n.hero-text p {font-size: 1.2rem;color: var(--text-main)}\n\n.hero-panel {background-color: var(--card-bg);border: 1px solid var(--border-color);padding: 2.5rem;border-radius: 8px}\n\n.hero-panel h3 {font-size: 1.1rem;text-transform: uppercase;letter-spacing: 1px;color: var(--accent);margin-bottom: 1.5rem}\n\n.hero-panel ul {list-style: none}\n\n.hero-panel li {display: flex;justify-content: space-between;padding: 1rem 0;border-bottom: 1px solid var(--border-color)}\n\n.hero-panel li:last-child {border-bottom: none}\n\n.hero-panel .label {color: var(--text-muted)}\n\n.hero-panel .value {color: var(--text-main);font-weight: 600}\n\n/* Why Section */\n.why-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n\n.card {background-color: var(--card-bg);border: 1px solid var(--border-color);padding: 2rem;border-radius: 8px;position: relative;overflow: hidden}\n\n.card .number {position: absolute;bottom: -20px;right: -10px;font-size: 8rem;font-weight: 800;color: var(--number-color);z-index: 0;pointer-events: none}\n\n.card-content {position: relative;z-index: 1}\n\n.card h3 {margin-bottom: 1rem;color: var(--accent)}\n\n/* Plans Section */\n.plans-container {display: flex;flex-direction: column;gap: 2rem}\n\n.plan-card {background-color: var(--card-bg);border: 1px solid var(--border-color);border-radius: 12px;padding: 3rem;position: relative}\n\n.plan-card.featured {border: 2px solid var(--accent);box-shadow: 0 0 20px rgba(168, 230, 207, 0.1)}\n\n.plan-header {display: flex;justify-content: space-between;align-items: flex-start;margin-bottom: 2rem;flex-wrap: wrap;gap: 1rem}\n\n.plan-name {font-size: 1.8rem;font-weight: 700}\n\n.plan-badge {background-color: var(--accent);color: var(--bg-color);padding: 0.3rem 1rem;border-radius: 20px;font-size: 0.85rem;font-weight: 600}\n\n.plan-price {font-size: 2.5rem;color: var(--text-main);font-weight: 700;margin-bottom: 0.5rem}\n\n.plan-annual {color: var(--accent);font-size: 0.95rem}\n\n.plan-features {list-style: none;margin-top: 2rem}\n\n.plan-features li {padding: 0.8rem 0;border-bottom: 1px solid var(--border-color);display: flex;align-items: center}\n\n.plan-features li::before {content: \"→\";color: var(--accent);margin-right: 1rem;font-weight: bold}\n\n/* Usage Section */\n.usage-steps {counter-reset: step}\n\n.step {margin-bottom: 2.5rem;padding-left: 3rem;position: relative}\n\n.step::before {counter-increment: step;content: counter(step);position: absolute;left: 0;top: 0;font-size: 1.5rem;font-weight: 700;color: var(--accent);border: 2px solid var(--accent);width: 2rem;height: 2rem;border-radius: 50%;display: flex;align-items: center;justify-content: center;font-size: 1rem}\n\n/* FAQ Section */\n.faq-item {background-color: var(--card-bg);border: 1px solid var(--border-color);border-radius: 8px;margin-bottom: 1rem;overflow: hidden}\n\nsummary {padding: 1.5rem 2rem;cursor: pointer;font-weight: 600;color: var(--text-main);display: flex;justify-content: space-between;align-items: center}\n\nsummary::after {content: \"+\";font-size: 1.5rem;color: var(--accent)}\n\ndetails[open] summary::after {content: \"−\"}\n\n.faq-answer {padding: 0 2rem 1.5rem 2rem;color: var(--text-muted)}\n\n/* Footer */\nfooter {border-top: 1px solid var(--border-color);padding: 2rem 5%;text-align: center;color: var(--text-muted);font-size: 0.85rem}\n\n@media (max-width: 768px) {\n  h1 {font-size: 2.5rem}\n  .hero {grid-template-columns: 1fr}\n  .directory {width: 100%;justify-content: center}\n  .plan-card {padding: 2rem}\n}\n</style><header>\n  <div class=\"breadcrumb\">\n    首页 <span>›</span> 悟空服务\n  </div>\n  <nav class=\"directory\">\n    <a href=\"#why\">为何选择</a>\n    <a href=\"#plans\">套餐方案</a>\n    <a href=\"#usage\">使用指南</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n\n  <section class=\"hero\">\n    <div class=\"hero-text\">\n      <h1>悟空</h1>\n      <p>网络世界浩瀚无垠，但边界与限制往往让人望而却步。悟空提供了一条清晰、隐秘且高效的路径，让你无缝穿梭于全球网络节点之间。不夸大，不包装，只做真正可靠的连接。</p>\n      <p>准备好开始你的旅程了吗？</p>\n    </div>\n    <div class=\"hero-panel\">\n      <h3>服务概览</h3>\n      <ul>\n        <li>\n          <span class=\"label\">核心协议</span>\n          <span class=\"value\">多协议支持</span>\n        </li>\n        <li>\n          <span class=\"label\">节点覆盖</span>\n          <span class=\"value\">全球主要地区</span>\n        </li>\n        <li>\n          <span class=\"label\">隐私政策</span>\n          <span class=\"value\">无日志记录</span>\n        </li>\n        <li>\n          <span class=\"label\">客服响应</span>\n          <span class=\"value\">工单优先制</span>\n        </li>\n        <li>\n          <span class=\"label\">退款保障</span>\n          <span class=\"value\">72小时内</span>\n        </li>\n      </ul>\n    </div>\n  </section>\n\n  <section id=\"why\">\n    <h2>为何选择悟空？</h2>\n    <div class=\"why-grid\">\n      <div class=\"card\">\n        <div class=\"number\">01</div>\n        <div class=\"card-content\">\n          <h3>透明无欺</h3>\n          <p>我们不喜欢花哨的营销话术。你看到的数据限制、支持的设备数量，就是我们实际提供的。没有隐性条款，没有动态降速。</p>\n        </div>\n      </div>\n      <div class=\"card\">\n        <div class=\"number\">02</div>\n        <div class=\"card-content\">\n          <h3>静默守护</h3>\n          <p>隐私不是口号，是默认状态。悟空采用严格的无日志策略，你的访问记录、DNS请求都不会被存储。你的足迹，只属于你。</p>\n        </div>\n      </div>\n      <div class=\"card\">\n        <div class=\"number\">03</div>\n        <div class=\"card-content\">\n          <h3>按需而动</h3>\n          <p>无论你是需要稳定观看高清流媒体，还是进行跨国文件传输，悟空的智能路由都能根据你的使用场景，自动匹配最优线路。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>选择适合你的方案</h2>\n    <p>不知道哪种方案适合自己？别担心，我们从最基础的需求出发，为你准备了三个层级的方案。如果你只需要日常浏览，基础版已经足够；如果你追求极致体验，旗舰版是首选。</p>\n    \n    <div class=\"plans-container\">\n      \n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">基础版</div>\n            <div class=\"plan-price\">¥15<span>/月</span></div>\n            <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n          </div>\n        </div>\n        <p>适合个人轻度使用，满足日常网页浏览与基础社交需求。</p>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card featured\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">旗舰版</div>\n            <div class=\"plan-price\">¥35<span>/月</span></div>\n            <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n          </div>\n          <span class=\"plan-badge\">推荐方案</span>\n        </div>\n        <p>为重度网络用户设计，提供更高带宽与专线优化，适合高清视频与游戏加速。</p>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">团队版</div>\n            <div class=\"plan-price\">¥85<span>/月</span></div>\n            <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n          </div>\n        </div>\n        <p>面向小型团队或工作室，提供更大流量池与专属服务支持，满足多人协作需求。</p>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </div>\n\n    </div>\n  </section>\n\n  <section id=\"usage\">\n    <h2>如何开始使用？</h2>\n    <p>只需三步，即可开启你的无界限网络体验。整个过程不到五分钟。</p>\n    <div class=\"usage-steps\">\n      <div class=\"step\">\n        <h3>选择并订阅方案</h3>\n        <p>浏览上方套餐，根据你的设备数量和使用习惯选择合适的方案。完成支付后，你将收到一封包含订阅链接的确认邮件。</p>\n      </div>\n      <div class=\"step\">\n        <h3>配置客户端</h3>\n        <p>悟空支持主流的网络客户端。只需将订阅链接导入软件，系统会自动更新所有服务器节点，无需手动配置繁琐的参数。</p>\n      </div>\n      <div class=\"step\">\n        <h3>连接与畅游</h3>\n        <p>打开客户端，选择一个离你最近或符合目标地区的节点，点击连接。状态变为绿色后，你就可以开始自由访问全球网络了。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题解答</h2>\n    <p>在这里，我们整理了用户最关心的一些问题。如果你的疑问不在其中，请随时提交工单联系我们。</p>\n\n    <div class=\"faq-list\">\n      <details class=\"faq-item\">\n        <summary>流量用完了会怎样？</summary>\n        <div class=\"faq-answer\">\n          <p>当你的月度流量使用完毕后，连接将自动断开，直到下个计费周期开始。我们不会在未经你同意的情况下自动扣费购买额外流量包。如果你发现流量经常不够用，建议升级到更高层级的套餐。</p>\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>可以在路由器上使用吗？</summary>\n        <div class=\"faq-answer\">\n          <p>悟空支持在兼容主流固件（如OpenWrt、梅林等）的路由器上配置。通过在路由器端设置，你可以实现全屋设备的无缝网络中转。具体的配置教程请参考订阅邮件中的帮助文档链接。</p>\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>如果对服务不满意可以退款吗？</summary>\n        <div class=\"faq-answer\">\n          <p>我们提供72小时无理由退款保障。如果你在订阅后的72小时内觉得服务不符合预期，只需提交工单说明情况，我们将全额退还你的订阅费用。请注意，超过72小时后的订阅将不再支持退款。</p>\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>不同套餐的节点质量有区别吗？</summary>\n        <div class=\"faq-answer\">\n          <p>是的。基础版使用的是共享普通线路节点池，能满足日常需求但在高峰期可能会有波动。旗舰版和团队版则提供了VIP专属高带宽节点，这些节点拥有更高的优先级和独立的带宽资源，确保在高峰期依然保持稳定速度。</p>\n        </div>\n      </details>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <p>悟空 - 专注纯粹的网络连接体验。</p>\n</footer>",
+          "hash": "644326da4fe32316668674f9f4380f2a2ad9c395f4887bda6f691c05aa577a8f",
+          "seo": {
+            "title": "悟空 | 你的网络，一跃千里",
+            "keywords": "悟空,网络加速,专线,隐私保护,流媒体解锁,套餐",
+            "description": "悟空专注于提供稳定、私密且高效的网络中转服务。无论你是为了跨越地理限制访问内容，还是为了保护在线隐私，悟空都能以清晰透明的方案助你一臂之力。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "8608",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fuyv1c.cn",
+    "host": "p-0daf0daa5f.fuyv1c.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ef705ea08a00939346b90bbc4a973f46138e902e18fd25ad44e2ff4802e639b6",
+    "sitemap.xml": "80e538492c4d8064783e1e31bc2b7df01e8dd25fdeef176c0becd23235a842cf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a75ae43d23982a755ef9f8aa9f5e04374af51f652983e6fb154d174ea6ab988",
+    "robots.txt": "624fb41d9fe4caab4a8b186d623f49834d08588a936f47886a6feb40d0e41e55",
+    "5ce6245ce9f406737991e5cfdc250f4d.txt": "0e03d7584aefd4c436a4c39a6f7082245aa3d12135dab8c990caf1141372f2a1"
+  },
+  "revision": "80a78547d87ac26d5dd08dee792ba4bdc0ac031861235d50f1a66afa4914102d"
+}
